@@ -1,0 +1,90 @@
+<?xml version="1.0"?>
+<Results version="1.0">
+<ReportNode type="testrun">
+<ReportNode type="Iteration">
+<ReportNode type="Action">
+<Data>
+    <Name>Login</Name>
+    <Description />
+    <StartTime>2017-03-20 11:00:29</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <IconKey>388451a7452c4b2cb1c0760f01514927</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Action">
+<Data>
+    <Name>CreateUser</Name>
+    <Description />
+    <StartTime>2017-03-20 11:00:33</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <IconKey>388451a7452c4b2cb1c0760f01514927</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Action">
+<Data>
+    <Name>Logout</Name>
+    <Description />
+    <StartTime>2017-03-20 11:00:33</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <IconKey>388451a7452c4b2cb1c0760f01514927</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Action0</Name>
+    <Description />
+    <StartTime>2017-03-20 11:00:28</StartTime>
+    <Duration>6</Duration>
+    <Result>Done</Result>
+    <Extension>
+      <IconKey>e70a7e3f85144727a7e050cd43c39ee6</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Index>1</Index>
+    <TestedApplications />
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Sample_Test01</Name>
+    <ToolName>HP Unified Functional Testing</ToolName>
+    <ToolVersion>12.52</ToolVersion>
+    <Description />
+    <StartTime>2017-03-20 10:59:55</StartTime>
+    <Duration>39</Duration>
+    <Result>Done</Result>
+    <Extension>
+      <IconKey>17fbe8bbe04b40e083453517a0488484</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Environment>
+      <Timezone>+01:00:00</Timezone>
+      <Locale>Nederlands (Nederland)</Locale>
+      <User>BRANCHES\C48007</User>
+      <CpuInfo>Intel(R) Xeon(R) CPU E7- 8870  @ 2.40GHz</CpuInfo>
+      <NumberOfCores>2</NumberOfCores>
+      <TotalMemory>8192</TotalMemory>
+      <HostName>solon.prd\NLVHPRAAB01125</HostName>
+      <OSInfo>Windows 7 Service Pack 1 (x64)</OSInfo>
+    </Environment>
+    <TestedApplications />
+    <Links>
+      <Link type="DataTable" reference="Default.xls" displayname="Default Data Table" />
+    </Links>
+  </Data>
+</ReportNode>
+<GeneralInfo>
+    <ResultName>Res4</ResultName>
+    <RunStartTime>2017-03-20 10:59:55</RunStartTime>
+    <Timezone>+01:00:00</Timezone>
+    <OrchestrationToolName>HP Unified Functional Testing</OrchestrationToolName>
+    <OrchestrationToolVersion>12.52</OrchestrationToolVersion>
+  </GeneralInfo>
+</Results>
